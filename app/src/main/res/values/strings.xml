@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RailsCarma Application</string>
+    <string name="room_layout_image">Room Layout Image</string>
+</resources>
